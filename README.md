@@ -54,4 +54,9 @@ I am passionate about cybersecurity, focusing on SOC operations, log analysis, a
 
 ## **Projects**
 - **[SOC & Honeynet in Azure (Live Traffic)](https://github.com/SancLogic/Soc-Honeynet-Azure)**  
-  → Built a **SOC environment** in **Microsoft Azure** for **real-world threat detection** and compliance.  
+  → Built a **SOC environment** in **Microsoft Azure** for **real-world threat detection** and compliance.
+  ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SancLogic/SancLogic/main/sanc-banner.png" alt="sanc bash footer" />
+</p>
