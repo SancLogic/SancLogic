@@ -14,7 +14,6 @@ I am passionate about cybersecurity, focusing on SOC operations, log analysis, a
 | Network Traffic Monitoring & Attack Detection | [SOC & Honeynet in Azure](https://github.com/SancLogic/Soc-Honeynet-Azure) |
 | Threat Hunting (MITRE Mappings)               | [SOC Cyber Range Investigations](https://github.com/SancLogic/SOC-Cyber-Range-Investigations) |
 | Incident Reporting & IOC Documentation        | [SOC Cyber Range Investigations](https://github.com/SancLogic/SOC-Cyber-Range-Investigations) |
-| Detection Rule Design (Basic KQL)             | [SOC Cyber Range Investigations](https://github.com/SancLogic/SOC-Cyber-Range-Investigations) |
 
 ---
 
