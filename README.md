@@ -15,7 +15,7 @@ I break things in the lab and investigate real incidents when they happen. Inves
 
 | **Role** | **Organization** |
 |----------|------------------|
-| Community Moderator \| Adversary Simulation | MYDFIR Community |
+| SOC Analyst Intern (Tier 2) \| Adversary Simulation | MYDFIR |
 | SOC Intern / CTF Engineer (Contract) | LOG(N) Pacific Cyber Range |
 
 ---
