@@ -29,6 +29,7 @@ I break things in the lab and investigate real incidents when they happen. Inves
 | [SOC & Honeynet in Azure](https://sanclogic.com/azure-soc-honeynet) | Live SOC environment in Azure, real attack traffic, threat detection, compliance mapping |
 | [SOC Cyber Range Investigations](https://github.com/SancLogic/SOC-Cyber-Range-Investigations) | Real-world threat activity investigated through hands-on detection and response inside a student cyber range |
 | [KDC Simulated Attack](https://sanclogic.com/kdc-attack) | Purple team exercise, 11-hour intrusion, 4 telemetry sources, 31 MITRE techniques, 5 detection rules |
+| [VHR-001 STORM-2603 Healthcare Ransomware Simulation](https://sanclogic.com/vhr-attack) | Full kill chain simulation modelling Storm-2603 healthcare targeting | Velociraptor C2 · Kerberoasting · LSASS dump · Cloudflare tunnel · Warlock ransomware
 
 ---
 
@@ -46,6 +47,10 @@ Real incident investigations, not labs.
 | [Phishing Campaign Analysis](https://sanclogic.com/duolingo-phishing) | Discord CDN payload delivery, typosquat domain |
 | [Linux Cryptominer Forensics](https://sanclogic.com/xorddos-linux-forensics) | Memory analysis, IRC C2, mining pool connections |
 | [KDC Investigation Report](https://sanclogic.com/kcd-report) | Purple team investigation, 11-hour intrusion, Sliver C2, credential dumping, exfil via Discord |
+| [MTS-PC-1 Stealc/Clipper Compromise](https://sanclogic.com/mts-pc-1-stealcclipper-compromise) | Memory forensics, 202 process injections, clipboard hijacker, TRON wallet theft |
+| [MTS-Web Server Compromise](https://sanclogic.com/webserver-compromise) | Linux memory forensics, rootkit deployment, XMRig cryptominer, deleted binaries in memory |
+| [WeTransfer Phishing Analysis](https://sanclogic.com/wetransfer) | Email analysis, WeTransfer impersonation, Turkish phishing kit, Document.zip payload |
+| [SWEEP Influencer Campaign](https://sanclogic.com/sweep) | Two-stage phishing, YouTube creator targeting, credential harvesting, infrastructure OSINT |
 
 ---
 
