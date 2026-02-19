@@ -30,7 +30,7 @@ I break things in the lab and investigate real incidents when they happen. Inves
 | [SOC Cyber Range Investigations](https://github.com/SancLogic/SOC-Cyber-Range-Investigations) | Real-world threat activity investigated through hands-on detection and response inside a student cyber range |
 | [KDC Simulated Attack](https://sanclogic.com/kdc-attack) | Purple team exercise, 11-hour intrusion, 4 telemetry sources, 31 MITRE techniques, 5 detection rules |
 | [VHR-001 STORM-2603 Healthcare Ransomware Simulation](https://sanclogic.com/vhr-attack) | Full kill chain simulation modelling Storm-2603 healthcare targeting | Velociraptor C2 · Kerberoasting · LSASS dump · Cloudflare tunnel · Warlock ransomware
-
+| [Kerning City Dental](https://sanclogic.github.io/engagements/kcd/report/KCDEngagementReport.html) | External black box pentest, 11 findings, full kill chain from recon to C2 in 61 minutes |
 ---
 
 ## **Case Files**
